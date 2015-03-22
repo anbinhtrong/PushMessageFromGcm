@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maya Push Notification</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_id">Get RegID</string>
+</resources>
